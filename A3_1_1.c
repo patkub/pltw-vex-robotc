@@ -14,7 +14,7 @@
 
 /*
   Project Title: IO VEX
-  Team Members: Patka
+  Team Members: Patrick Kubiak
   Date:
   Section:
 

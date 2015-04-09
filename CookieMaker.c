@@ -6,7 +6,7 @@
 
 /*
   Project Title:	Cookie Maker
-  Team Members:	Patka
+  Team Members:	Patrick Kubiak
   Date:
   Section:
 
