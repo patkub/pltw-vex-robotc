@@ -1,4 +1,4 @@
-vex-robotc
+VEX ROBOTC
 ==========
 
-ROBOTC vex
+ROBOTC code to control VEX.
